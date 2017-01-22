@@ -7,32 +7,138 @@ Direct3D:
     VRAM:     2017 MB
     Driver:   21.21.13.7633
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\Wave Test\Windows\Wave_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\keven\Documents\Unity Projects 5.5\GameGlobalJam2017\Windows\Wave_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.083438 ms
+UnloadTime: 1.366346 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 59d0 -> priority: 1 
-  Thread -> id: 20b4 -> priority: 1 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.200773 ms
+  Thread -> id: 51bc -> priority: 1 
+  Thread -> id: 3e0 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1160.
-Total: 0.343594 ms (FindLiveObjects: 0.091030 ms CreateObjectMapping: 0.031682 ms MarkObjects: 0.211065 ms  DeleteObjects: 0.008924 ms)
+The referenced script on this Behaviour (Game Object 'Boat') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.490362 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1729.
+Total: 0.418114 ms (FindLiveObjects: 0.104417 ms CreateObjectMapping: 0.035698 ms MarkObjects: 0.265951 ms  DeleteObjects: 0.011155 ms)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.153936 ms
+
+Unloading 185 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.253897 ms (FindLiveObjects: 0.058009 ms CreateObjectMapping: 0.018295 ms MarkObjects: 0.177598 ms  DeleteObjects: 0.999101 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Boat') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335562 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 0.401157 ms (FindLiveObjects: 0.097277 ms CreateObjectMapping: 0.035698 ms MarkObjects: 0.257026 ms  DeleteObjects: 0.010709 ms)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.378840 ms
+
+Unloading 185 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.187855 ms (FindLiveObjects: 0.027666 ms CreateObjectMapping: 0.019187 ms MarkObjects: 0.157518 ms  DeleteObjects: 0.983037 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Boat') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388663 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 0.402942 ms (FindLiveObjects: 0.100847 ms CreateObjectMapping: 0.042391 ms MarkObjects: 0.248548 ms  DeleteObjects: 0.010263 ms)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sound
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.224446 ms
+
+Unloading 185 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 1.164205 ms (FindLiveObjects: 0.029897 ms CreateObjectMapping: 0.018741 ms MarkObjects: 0.150824 ms  DeleteObjects: 0.964296 ms)
 
